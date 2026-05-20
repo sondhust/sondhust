@@ -1,7 +1,7 @@
 ## Hi there, I'm [DO SON CODER](https://github.com/sondhust/SonDH) 👋🏼👨🏻‍💻
 
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/sondhust/SonDH/blob/main/dosonavatar.jpg" align="right" height="215" /></a>
+<a href="https://samujjwaal.me/"><img src="https://github.com/sondhust/sondhust/blob/main/dosonavatar.jpg" align="right" height="215" /></a>
 
 I am a computer vision developer with over 4 Years of Experience in DL/ML Engineering.
 I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
